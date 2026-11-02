@@ -12,3 +12,10 @@ The code used for the different experiments is organized in the following folder
 
 ## Dataset 
 - The project uses the PTB-XL dataset available at: https://physionet.org/content/ptb-xl/1.0.3/
+
+## Authors
+- **Jonas Isaksen Kleiv** - Traditional Machine Learning
+- **Yin Hang Chan** - Deep Learning
+- **Ismail Ziai** - Third-Party/Other Models
+- **Serap Yabalak** - Background, Clinical Use, and Ethics
+- **Henrik Heiner** - Deep Learning
