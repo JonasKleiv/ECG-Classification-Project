@@ -8,7 +8,7 @@ ADD ABSTRACT WHEN WRITTEN
 The code used for the different experiments is organized in the following folders:
 - **Traditional Machine Learning:** Data loading, preprocessing, feature extraction and selection, and experiments across different model types along with evaluation and analysis of results.
 - **Deep Learning:**
-- **Third party/other models:** 
+- **Third party/other models:** https://github.com/asmaielzia32-tech/LSTM-SVM-and-RF-ECG-PTB-XL-Classification
 
 ## Dataset 
 - The project uses the PTB-XL dataset available at: https://physionet.org/content/ptb-xl/1.0.3/
