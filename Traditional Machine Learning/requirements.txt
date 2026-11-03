@@ -1,0 +1,25 @@
+# Core Data & Scientific Computing
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+
+# Machine Learning & Evaluation
+scikit-learn>=1.6.0
+imbalanced-learn>=0.12.0
+xgboost>=2.0.0
+
+# Biomedical Signal Processing
+wfdb>=4.1.2
+neurokit2>=0.2.7
+PyWavelets>=1.5.0
+
+# Visualization & Interactive Plots
+matplotlib>=3.8.0
+seaborn>=0.13.0
+PyQt6>=6.6.0
+
+# Utilities & Jupyter Kernel
+joblib>=1.3.0
+tqdm>=4.66.0
+ipykernel>=6.29.0
+jupyter>=1.0.0

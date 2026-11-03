@@ -1,0 +1,4 @@
+# Ignore all generated cache files (large .npy/.csv/.pkl)
+*
+# but keep this file so the folder exists after cloning
+!.gitignore

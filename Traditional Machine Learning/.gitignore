@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+records100/
+records500/
+External validation/
+cache/*.npy
+cache/*.pkl
+
+.tmp.drivedownload/
+.tmp.driveupload/
+*.tmp.drivedownload
+*.tmp.driveupload
+*.gdoc
+*.gsheet
+*.gslides
+Icon?
+
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+.DS_Store
+
+~$*.xlsx
+~$*.xls
+~$*.docx
