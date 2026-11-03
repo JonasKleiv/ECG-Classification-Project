@@ -1,5 +1,5 @@
 # ECG Classification on the PTB-XL Dataset
-This repository contains the code used in the writing of the project paper, *ECG Classification Using Traditional Machine Learning and Deep Learning Models*. The paper is available as a PDF in this repository. (ADD THIS)
+This repository contains the code used in the writing of the project paper, *ECG Classification Using Traditional Machine Learning and Deep Learning Models*.
 
 ## Project Abstract
 ADD ABSTRACT WHEN WRITTEN
