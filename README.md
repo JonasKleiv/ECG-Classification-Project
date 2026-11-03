@@ -16,7 +16,7 @@ The code used for the different experiments is organized in the following folder
 
 ## Authors
 - **Jonas Isaksen Kleiv** - Traditional Machine Learning
-- **Yin Hang Chan** - Deep Learning
+- **Yin Hang Chan** - Deep Learning Single-Label
 - **Ismail Ziai** - Third-Party/Other Models
 - **Serap Yabalak** - Background, Clinical Use, and Ethics
-- **Henrik Heiner** - Deep Learning
+- **Henrik Heiner** - Deep Learning Multi-Label
