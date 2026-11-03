@@ -7,7 +7,8 @@ ADD ABSTRACT WHEN WRITTEN
 ## Repository Structure
 The code used for the different experiments is organized in the following folders:
 - **Traditional Machine Learning:** Data loading, preprocessing, feature extraction and selection, and experiments across different model types along with evaluation and analysis of results.
-- **Deep Learning:**
+- **Deep Learning Single-Label:**
+- **Deep Learning Multi-Label:**
 - **Third party/other models:** https://github.com/asmaielzia32-tech/LSTM-SVM-and-RF-ECG-PTB-XL-Classification
 
 ## Dataset 
